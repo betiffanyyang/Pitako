@@ -3,7 +3,7 @@
 //  body positivity
 //
 //  Created by Sophia Yang on 2023-03-11.
-//
+//  Note: This was not used in our final app.
 
 import Foundation
 import Firebase
